@@ -16,3 +16,18 @@ div {
     border: 2px solid #000;;
     
 }
+
+
+
+h2 {
+    color: red;
+    font-weight: bold;
+}
+
+div {
+
+    width: 250px;
+    height: 250px;
+    border: 1px solid red;
+    
+}
